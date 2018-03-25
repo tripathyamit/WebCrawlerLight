@@ -1,0 +1,6 @@
+1.Open mail_multithreading.py and give the
+
+######################## PRIMARY INPUT PARAMETRES ###########################
+PROJECT_FOLDER = "recruiterbox"                                            ##
+ROOT_URL = "https://recruiterbox.com/"                                     ##
+#############################################################################
