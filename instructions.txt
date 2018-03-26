@@ -1,4 +1,4 @@
-1.Open mail_multithreading.py and give the
+1.Open mail_multithreading.py and give the following inputs:
 
 ######################## PRIMARY INPUT PARAMETRES ###########################
 PROJECT_FOLDER = "recruiterbox"                                            ##
